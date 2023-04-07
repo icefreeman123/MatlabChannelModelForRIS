@@ -6,7 +6,7 @@ This repository contains the channel model for Reconfigurable Intelligent Surfac
 De-Ming Chian, Chao-Kai Wen, Chi-Hung Wu, Fu-Kang Wang, and Kai-Kit Wong, “A novel channel model for reconfigurable intelligent surfaces with consideration of polarization and switch impairments,” 2023, arXiv: . [Online]. Available: 
 
 ## Requirements
-- Matlab
+- Matlab (R2022b)
 
 ## Steps to start
 
