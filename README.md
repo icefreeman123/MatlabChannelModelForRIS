@@ -22,5 +22,5 @@ De-Ming Chian, Chao-Kai Wen, Chi-Hung Wu, Fu-Kang Wang, and Kai-Kit Wong, “A n
 
 ## Results
 The following results are reproduced from Fig. 6(c) of our paper: <br>
-![Image text](https://github.com/icefreeman123/RIS-ChannelModel/blob/main/Results.jpg)
+![Image text](https://github.com/icefreeman123/Matlab_RIS_ChannelModel/blob/main/Results.jpg)
 
