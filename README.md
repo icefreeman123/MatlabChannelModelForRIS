@@ -21,6 +21,6 @@ De-Ming Chian, Chao-Kai Wen, Chi-Hung Wu, Fu-Kang Wang, and Kai-Kit Wong, “A n
 ### Step2. Run the main script
 
 ## Result
-The following results are reproduced from Fig. 6(c) of our paper:
-
+The following results are reproduced from Fig. 6(c) of our paper: <br>
+![Image text](https://github.com/icefreeman123/Matlab_RIS_ChannelModel/blob/main/Results.jpg)
 
