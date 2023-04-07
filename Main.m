@@ -113,7 +113,7 @@ for j = 1:length(DPS_need)
         [ Coeff_reflect_Rot0, ~ ] = CalculateReflect( AntData_Rot0);
         [ Coeff_reflect_Rot90, ~ ] = CalculateReflect( AntData_Rot90);
 
-        % Combine coefficient
+        % Combine coefficient (Channel coefficient)
         Coeff_Open_Rot0 = Coeff_Tx2Rx_Rot0 + Coeff_reflect_Rot0 + Coeff_scatter_Rot0 + Coeff_Tx2RIS2Rx_Rot0;
         Coeff_Open_Rot90 = Coeff_Tx2Rx_Rot90 + Coeff_reflect_Rot90 + Coeff_scatter_Rot90 + Coeff_Tx2RIS2Rx_Rot90;
 
