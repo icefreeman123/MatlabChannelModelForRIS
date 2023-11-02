@@ -30,10 +30,10 @@ The following results are reproduced from Fig. 7(c) of our paper: <br>
 - Main script: Main_RISarray_WithoutRotation.m / Main_RISarray_WithRotation.m
 - Functions: CalculateCC.m / CalculateReflect.m / CalculateScatter.m / <br>
 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ChangeGrid.m / LinearInterpolate.m / LinearInterpolateGrid.m / <br>
-&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; LoadParameter.m / ArrayGenerate.m / <be>
+&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; LoadParameter.m / ArrayGenerate.m / <br>
 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; RodriguesRotVec.m / RotateAntenna.m / <br>
-&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ControlRIS_Perfectbeam.m / ControlRIS_DPSbeam.m / <be>
-&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ControlRIS_BGA.m / ControlRIS_BGApolar.m / <be>
+&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ControlRIS_Perfectbeam.m / ControlRIS_DPSbeam.m / <br>
+&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ControlRIS_BGA.m / ControlRIS_BGApolar.m / <br>
 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; GetCC_LOS.m / GetCC_RIS.m  <br>
 - Data: Pattern file (AntH2.xlsx / AntH3.xlsx / AntH4.xlsx / <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; AntV2.xlsx / AntV3.xlsx / AntV4.xlsx) <br>
