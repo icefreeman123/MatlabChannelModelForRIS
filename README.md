@@ -42,7 +42,7 @@ The following results are reproduced from Fig. 7(c) of our paper: <br>
 ### Step2. Run the main script 1 or main script 2
 
 ### Results
-The following results are reproduced from Fig. 12 of our paper: <br>
-![Image text](https://github.com/icefreeman123/Matlab_RIS_ChannelModel/blob/main/Fig12a.jpg)
-The following results are reproduced from Fig. 12 of our paper: <br>
-![Image text](https://github.com/icefreeman123/Matlab_RIS_ChannelModel/blob/main/Fig12b.jpg)
+The following results are reproduced from Fig. 12(a) of our paper: <br>
+![Image text](https://github.com/icefreeman123/Matlab_RIS_ChannelModel/blob/main/Fig7c.jpg)
+The following results are reproduced from Fig. 12(b) of our paper: <br>
+![Image text](https://github.com/icefreeman123/Matlab_RIS_ChannelModel/blob/main/Fig7c.jpg)
