@@ -8,7 +8,7 @@ De-Ming Chian, Chao-Kai Wen, Chi-Hung Wu, Fu-Kang Wang, and Kai-Kit Wong, “A n
 ## Requirements
 - Matlab (R2022b)
 
-## RIS element (Consideration of polarization and switch impairments)
+## File 1: RIS element (Consideration of polarization and switch impairments)
 
 ### Step1. Download the main script, functions, and data
 - Main script: Main.m
@@ -24,7 +24,7 @@ De-Ming Chian, Chao-Kai Wen, Chi-Hung Wu, Fu-Kang Wang, and Kai-Kit Wong, “A n
 The following results are reproduced from Fig. 7(c) of our paper: <br>
 ![Image text](https://github.com/icefreeman123/Matlab_RIS_ChannelModel/blob/main/Fig7c.jpg)
 
-## RIS array (Controlling algorithm)
+## File 2: RIS array (Controlling algorithm)
 
 ### Step1. Download the main scripts, functions, and data
 - Main script 1: Main_RISarray_WithoutRotation.m
