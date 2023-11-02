@@ -8,7 +8,7 @@ De-Ming Chian, Chao-Kai Wen, Chi-Hung Wu, Fu-Kang Wang, and Kai-Kit Wong, “A n
 ## Requirements
 - Matlab (R2022b)
 
-## RIS element (Channel model)
+## RIS element (Consideration of polarization and switch impairments)
 
 ### Step1. Download the main script, functions, and data
 - Main script: Main.m
