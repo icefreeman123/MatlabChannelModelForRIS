@@ -39,7 +39,7 @@ The following results are reproduced from Fig. 7(c) of our paper: <br>
 - Data: Pattern file (AntH2.xlsx / AntH3.xlsx / AntH4.xlsx / <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; AntV2.xlsx / AntV3.xlsx / AntV4.xlsx) <br>
 
-### Step2. Run the main script 1 or main script 2
+### Step2. Run the main script 1 and 2, corresponding to Fig. 12(a) and (b), respectively.
 
 ### Results
 The following results are reproduced from Fig. 12(a) of our paper: <br>
