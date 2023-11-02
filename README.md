@@ -27,7 +27,8 @@ The following results are reproduced from Fig. 7(c) of our paper: <br>
 ## RIS array (Controlling algorithm)
 
 ### Step1. Download the main script, functions, and data
-- Main script: Main_RISarray_WithoutRotation.m / Main_RISarray_WithRotation.m
+- Main script 1: Main_RISarray_WithoutRotation.m
+- Main script 2: Main_RISarray_WithRotation.m
 - Functions: CalculateCC.m / CalculateReflect.m / CalculateScatter.m / <br>
 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ChangeGrid.m / LinearInterpolate.m / LinearInterpolateGrid.m / <br>
 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; LoadParameter.m / ArrayGenerate.m / <br>
@@ -38,7 +39,7 @@ The following results are reproduced from Fig. 7(c) of our paper: <br>
 - Data: Pattern file (AntH2.xlsx / AntH3.xlsx / AntH4.xlsx / <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; AntV2.xlsx / AntV3.xlsx / AntV4.xlsx) <br>
 
-### Step2. Run the main script
+### Step2. Run the main script 1 or main script 2
 
 ### Results
 The following results are reproduced from Fig. 12 of our paper: <br>
