@@ -26,7 +26,7 @@ The following results are reproduced from Fig. 7(c) of our paper: <br>
 
 ## RIS array (Controlling algorithm)
 
-### Step1. Download the main script, functions, and data
+### Step1. Download the main scripts, functions, and data
 - Main script 1: Main_RISarray_WithoutRotation.m
 - Main script 2: Main_RISarray_WithRotation.m
 - Functions: CalculateCC.m / CalculateReflect.m / CalculateScatter.m / <br>
