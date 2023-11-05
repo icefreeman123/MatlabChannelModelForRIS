@@ -40,7 +40,7 @@ The following results are reproduced from Fig. 7(c) of our paper: <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; AntV2.xlsx / AntV3.xlsx / AntV4.xlsx) <br>
 
 ### Step2. Run the main script 1 and 2, corresponding to Fig. 12(a) and (b), respectively. The results with one of controlling algorithms will be obtained.
-(Please choose the controlling algorithm in 43-th line. Ex.: AntData.CtlMethod = 'Perfect_beam'; is based on perfect beamforming.) <br>
+(Please choose the controlling algorithm in the 43-th line. Ex.: AntData.CtlMethod = 'Perfect_beam'; is based on perfect beamforming.) <br>
 
 ### Results
 The following results are reproduced from Fig. 12(a) of our paper: <br>
