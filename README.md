@@ -5,7 +5,7 @@
 This repository contains the channel model for Reconfigurable Intelligent Surfaces (RIS) described in 
 De-Ming Chian, Chao-Kai Wen, Chi-Hung Wu, Fu-Kang Wang, and Kai-Kit Wong, “A novel channel model for reconfigurable intelligent surfaces with consideration of polarization and switch impairments,” arXiv preprint arXiv:2304.03713, 2023. [Online]. Available: https://arxiv.org/abs/2304.03713.
 
-The final version is published in IEEE Transactions on Antennas and Propagation ( Early Access ). Available: https://ieeexplore.ieee.org/document/10462906.
+The final version is published in D.-M. Chian, C.-K. Wen, C.-H. Wu, F.-K. Wang and K.-K. Wong, "A Novel Channel Model for Reconfigurable Intelligent Surfaces With Consideration of Polarization and Switch Impairments," IEEE Transactions on Antennas and Propagation, vol. 72, no. 4, pp. 3680-3695, April 2024. Available: https://ieeexplore.ieee.org/document/10462906.
 
 ## Requirements
 - Matlab (R2022b)
